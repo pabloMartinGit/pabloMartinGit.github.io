@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "OpenSans-Bold_wgt700";
+  src: url("../fonts/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Bold.ttf")  format("truetype");
+   font-weight : 700;
+ 
+}
+@font-face {
+  font-family: "Roboto-Regular_wgt400";
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Regular.ttf")  format("truetype");
+   font-weight : 400;
+ 
+}
+@font-face {
+  font-family: "Roboto-Light_wgt300";
+  src: url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Light.ttf")  format("truetype");
+   font-weight : 300;
+ 
+}
+@font-face {
+  font-family: "Roboto-Medium_wgt500";
+  src: url("../fonts/Roboto-Medium.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Medium.ttf")  format("truetype");
+   font-weight : 500;
+ 
+}
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Avenir_Next_LT_Pro-Bold.ttf")  format("truetype"),
+       url("../fonts/Avenir_Next_LT_Pro-Bold.otf") format("opentype");
+   font-weight : 700;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Avenir_Next_LT_Pro-Regular.ttf")  format("truetype"),
+       url("../fonts/Avenir_Next_LT_Pro-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Avenir_Next-Bold.ttf")  format("truetype"),
+       url("../fonts/Avenir_Next-Bold.otf") format("opentype");
+   font-weight : 700;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Avenir_Next-Regular.ttf")  format("truetype"),
+       url("../fonts/Avenir_Next-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Avenir_Next-Medium.ttf")  format("truetype"),
+       url("../fonts/Avenir_Next-Medium.otf") format("opentype");
+   font-weight : 500;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Avenir_Next-Ultra_Light.ttf")  format("truetype"),
+       url("../fonts/Avenir_Next-Ultra_Light.otf") format("opentype");
+   font-weight : 300;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Avenir_Next_LT_Pro-Italic.ttf")  format("truetype"),
+       url("../fonts/Avenir_Next_LT_Pro-Italic.otf") format("opentype");
+ 
+   
+     font-style : italic;
+}
+@font-face {
+  font-family: "Chalkduster";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Chalkduster-Regular.ttf")  format("truetype"),
+       url("../fonts/Chalkduster-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "ChalkDust";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/ChalkDust-Regular.ttf")  format("truetype"),
+       url("../fonts/ChalkDust-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Gill Sans MT";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Gill_Sans_MT-Regular.ttf")  format("truetype"),
+       url("../fonts/Gill_Sans_MT-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
